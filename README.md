@@ -10,7 +10,7 @@ Built upon [bymaximus/msfs2020-toolbar-window-template](https://github.com/bymax
 
 ## Installation
 
-- Install [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) for LNM.
+- Install [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) web UI for LNM.
 
 - To install this panel, just copy the `msfs2020-littlenavmap-openlayers` folder to your MSFS2020 `Community` folder.
 
