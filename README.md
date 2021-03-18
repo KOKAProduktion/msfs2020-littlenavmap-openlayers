@@ -1,6 +1,6 @@
 # msfs2020-littlenavmap-openlayers
 
-Microsoft FlightSimulator 2020 Toolbar [Little Navmap](https://albar965.github.io/) window embedding the [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) application.
+Microsoft FlightSimulator 2020 / [Little Navmap](https://albar965.github.io/) toolbar window embedding the [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) application.
 
 Built upon [bymaximus/msfs2020-toolbar-window-template](https://github.com/bymaximus/msfs2020-toolbar-window-template)
 ## Installation
