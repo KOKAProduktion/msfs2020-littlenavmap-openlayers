@@ -6,6 +6,8 @@ Microsoft FlightSimulator 2020 in-game toolbar window embedding [Little Navmap](
 
 Built upon [bymaximus/msfs2020-toolbar-window-template](https://github.com/bymaximus/msfs2020-toolbar-window-template)
 
+**State:** Prototype
+
 ## Installation
 
 - Install [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) for LNM.
