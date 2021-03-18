@@ -12,11 +12,11 @@
             "package_version": "0.1.12"
         }
     ],
-    "content_type": "CORE",
-    "title": "InGamePanelLNM",
-    "manufacturer": "",
+    "content_type": "",
+    "title": "MSFS2020-littlenavmap-openlayers",
+    "manufacturer": "KOKAProduktion",
     "creator": "KOKAProduktion",
-    "package_version": "0.3.0",
+    "package_version": "2.0.0",
     "minimum_game_version": "1.8.3",
     "release_notes": {
         "neutral": {

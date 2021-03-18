@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <SimBase.Document Type="InGamePanels" version="1,0">
   <Filename>msfs2020-littlenavmap-openlayers.spb</Filename>
-  <InGamePanels.InGamePanelDefinition id="PANEL_WEBPAGE_PANEL" Name="Little Navmap" url="html_UI/ingamePanels/CustomPanel/CustomPanel.html" resizeDirections="Both" minWidth="33" minHeight="35" defaultWidth="36" defaultHeight="36" defaultTop="33" defaultRight="2" icon="aircraft_small_user" buttonVisible="true">
+  <InGamePanels.InGamePanelDefinition id="PANEL_LNM_OL_PANEL" Name="LittleNavmap" url="html_UI/ingamePanels/WebPage/CustomPanel.html" resizeDirections="Both" minWidth="33" minHeight="35" defaultWidth="36" defaultHeight="36" defaultTop="33" defaultRight="2" icon="aircraft_small_user" buttonVisible="true">
   </InGamePanels.InGamePanelDefinition>
 </SimBase.Document>
