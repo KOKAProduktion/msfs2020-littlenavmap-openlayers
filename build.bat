@@ -1,1 +1,1 @@
-"%MSFS_SDK%\Tools\bin\fspackagetool.exe" "fs-base-ingamepanels-lnm\Build\fs-base-ingamepanels-lnm.xml" -nomirroring
+"%MSFS_SDK%\Tools\bin\fspackagetool.exe" "msfs2020-littlenavmap-openlayers\Build\msfs2020-littlenavmap-openlayers.xml" -nomirroring

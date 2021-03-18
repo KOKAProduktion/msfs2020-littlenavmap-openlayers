@@ -1,1 +1,1 @@
-copy /Y "fs-base-ingamepanels-lnm\Build\Packages\fs-base-ingamepanels-lnm\Build\fs-base-ingamepanels-lnm.spb" "fs-base-ingamepanels-lnm\InGamePanels" && rmdir /s /q "fs-base-ingamepanels-lnm\Build\Packages" && rmdir /s /q "fs-base-ingamepanels-lnm\Build\_PackageInt"
+copy /Y "msfs2020-littlenavmap-openlayers\Build\Packages\msfs2020-littlenavmap-openlayers\Build\msfs2020-littlenavmap-openlayers.spb" "msfs2020-littlenavmap-openlayers\InGamePanels" && rmdir /s /q "msfs2020-littlenavmap-openlayers\Build\Packages" && rmdir /s /q "msfs2020-littlenavmap-openlayers\Build\_PackageInt"
