@@ -1,3 +1,5 @@
+![Screenshot (65)](https://user-images.githubusercontent.com/3401839/111709694-62b53e00-8848-11eb-9be1-d8b922f9c081.png)
+
 # msfs2020-littlenavmap-openlayers
 
 Microsoft FlightSimulator 2020 in-game toolbar window embedding [Little Navmap](https://albar965.github.io/) via the [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) application.
