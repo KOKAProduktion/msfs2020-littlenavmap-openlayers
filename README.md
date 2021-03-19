@@ -4,7 +4,7 @@
 
 _Pan and scroll-able Little Navmap in VR_
 
-Microsoft FlightSimulator 2020 in-game toolbar window embedding [Little Navmap](https://albar965.github.io/) via the [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) application.
+This is a Microsoft FlightSimulator 2020 in-game panel window embedding [Little Navmap](https://albar965.github.io/) via the [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) application. It is required to make the [littlenavmap-openlayers](https://github.com/KOKAProduktion/littlenavmap-openlayers) features available in-game.
 
 Built upon [bymaximus/msfs2020-toolbar-window-template](https://github.com/bymaximus/msfs2020-toolbar-window-template)
 
