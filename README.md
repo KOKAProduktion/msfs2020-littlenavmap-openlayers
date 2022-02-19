@@ -16,6 +16,10 @@ Built upon [bymaximus/msfs2020-toolbar-window-template](https://github.com/bymax
 
 - To install this panel, just copy the `msfs2020-littlenavmap-openlayers` folder to your MSFS2020 `Community` folder.
 
+- Make sure the **LITTLENAVMAP** panel is turned on inside the toolbar settings:
+
+![Screenshot (177)](https://user-images.githubusercontent.com/3401839/154785163-817d39f0-2c9d-4110-aa08-5a02e18f8a62.png)
+
 - If your LNM server runs on a host/port other than its default settings adjust `msfs2020-littlenavmap-openlayers\html_ui\InGamePanels\WebPage\CustomPanel.js` (L:103) accordingly.
 
 Note: LNM and its web server must be runnning in order to use this panel
