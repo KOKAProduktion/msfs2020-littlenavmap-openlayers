@@ -8,7 +8,7 @@ This is a Microsoft FlightSimulator 2020 in-game panel window embedding [Little 
 
 Built upon [bymaximus/msfs2020-toolbar-window-template](https://github.com/bymaximus/msfs2020-toolbar-window-template)
 
-**State:** Prototype
+**State:** Prototype ([Known Issues](https://github.com/KOKAProduktion/littlenavmap-openlayers#possible-issues--concerns))
 
 ## Installation
 
